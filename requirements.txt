@@ -3,3 +3,4 @@ pymysql
 pandas
 plotly
 numpy
+streamlit_option_menu
